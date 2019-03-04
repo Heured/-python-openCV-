@@ -4,7 +4,7 @@
 ## 步骤1
 打开Anaconda Prompt 输入：
   
-![](https://github.com/Heured/-python-openCV-/tree/master/Image/01.JPG)
+![](https://github.com/Heured/-python-openCV-/blob/master/Image/01.JPG)
   
 会显示：  
 ![](https://github.com/Heured/-python-openCV-/tree/master/Image/02.JPG)
