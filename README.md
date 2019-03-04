@@ -4,10 +4,10 @@
 ## 步骤1
 打开Anaconda Prompt 输入：
   
-![image](https://github.com/Heured/-python-openCV-/tree/master/images/01.PNG)
+![01](https://github.com/Heured/-python-openCV-/tree/master/images/01.PNG)
   
 会显示：  
-![image](https://github.com/Heured/-python-openCV-/tree/master/images/02.PNG)
+![02](https://github.com/Heured/-python-openCV-/tree/master/images/02.PNG)
   
 键入y加回车：  
 ![03](https://github.com/Heured/-python-openCV-/tree/master/images/03.PNG)
