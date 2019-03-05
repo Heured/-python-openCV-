@@ -1,6 +1,6 @@
 # -python-openCV-
 
-本次环境搭建使用Anaconda进行安装
+本次环境搭建使用Anaconda进行安装,Anaconda使用python3.7版本
 ## 步骤1
 打开Anaconda Prompt 输入：
   
